@@ -1,0 +1,3 @@
+# AdMob app-ads.txt für Kayling (Blob.io und Influencer Empire, dasselbe AdMob-Konto).
+# Muss genau unter https://<domain>/app-ads.txt liegen, <domain> = Entwickler-Webseite im Store-Eintrag.
+google.com, pub-9899457163935115, DIRECT, f08c47fec0942fa0
